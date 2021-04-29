@@ -7,6 +7,8 @@ The Mysterious Quest is a VR game where the player has to solve puzzles to figur
 # Technical Details
 **Unity Version:** 2019.4.20f1
 
+**Build:** Windows Build Support (IL2CPP) x64bit
+
 **Supported Headset:** Windows Mixed Reality
 
 **Required Assets (Paid):** Destructive Tornado, Cave Parts Set
